@@ -1,0 +1,116 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.shipping{
+	height: 32px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	padding-top: 5px;
+}
+.menu{
+	height: 80px;
+	width: 100%;
+}
+.menu img{
+	height: 47px;
+    width: 96px;
+    padding-top: 10px;
+    padding-left: 46px;
+}
+.menu a {
+	color: black;
+	text-decoration: none;
+	margin: 15px;
+}
+.banner{
+	height: 500px;
+	width: 100%;
+}
+.banner {
+	background: url("trip1.jpg");
+	height: 500px;
+	width: 100%;
+}
+.banner button{
+	    margin-top: 406px;
+    margin-left: 204px;
+    height: 53px;
+    width: 126px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+.item{
+	height: 700px;
+	width: 100%;
+}
+.ab{
+	height: 280px;
+	width: 260px;
+	float: left;
+	padding-top: 20px;
+	padding-left: 35px;
+	padding-right: 25px;
+	padding-bottom: 20px;
+}
+.item h3{
+	margin-top: -158px;
+	color: white;
+}
+.hand{
+	/*background: url(../image/trip2.png);*/
+	height: 350px;
+	width: 100%;
+}
+.hand h1{
+	font-size: 50px;
+	color: white;
+	margin-top: -247px;
+}
+.hand h2{
+	font-size: 35px;
+	color: white;
+	margin-top: 10px;
+}
+.hand button{
+	height: 53px;
+    width: 126px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    margin-top: 10px;
+}
+.product{
+	height: 820px;
+	width: 100%;
+}
+.abc{
+	width: 580px;
+	height: 380px;
+	float: left;
+	padding-top: 24px;
+    padding-left: 48px;
+}
+.product h3{
+	color: white;
+     margin-top: -190px;
+}
+.sign{
+	height: 200px;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+.footer{
+	height: 350px;
+	width: 100%;
+}
+.d{
+	height: 250px;
+	width: 400px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
